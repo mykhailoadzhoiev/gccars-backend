@@ -1,0 +1,157 @@
+[
+  {
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "100"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "50"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      }
+    ],
+    "description": "Test collection",
+    "image": "https://ipfs.io/ipfs/QmSDQnb1KLNpva6LEDLYs69AaHnwX359mqhRbcL7b1Z13Y",
+    "name": "Card one"
+  },
+  {
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "100"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "50"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      }
+    ],
+    "description": "Test collection",
+    "image": "https://ipfs.io/ipfs/QmSDQnb1KLNpva6LEDLYs69AaHnwX359mqhRbcL7b1Z13Y",
+    "name": "Card two"
+  },
+  {
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "100"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "50"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Yellow"
+      }
+    ],
+    "description": "Test collection",
+    "image": "https://ipfs.io/ipfs/QmSDQnb1KLNpva6LEDLYs69AaHnwX359mqhRbcL7b1Z13Y",
+    "name": "Card three"
+  },
+  {
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "100"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "50"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Green"
+      }
+    ],
+    "description": "Test collection",
+    "image": "https://ipfs.io/ipfs/QmSDQnb1KLNpva6LEDLYs69AaHnwX359mqhRbcL7b1Z13Y",
+    "name": "Card four"
+  },
+  {
+    "attributes": [
+      {
+        "trait_type": "Speed",
+        "value": "100"
+      },
+      {
+        "trait_type": "Armor",
+        "value": "50"
+      },
+      {
+        "trait_type": "Attack",
+        "value": "20"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "Hash",
+        "value": "1"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      }
+    ],
+    "description": "Test collection",
+    "image": "https://ipfs.io/ipfs/QmSDQnb1KLNpva6LEDLYs69AaHnwX359mqhRbcL7b1Z13Y",
+    "name": "Card five"
+  }
+]
